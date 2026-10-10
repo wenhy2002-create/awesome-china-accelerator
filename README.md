@@ -26,6 +26,7 @@
 
 ### 三、按平台解锁 Platforms
 - [各大 App 回国解锁指南(B站 / 网易云 / 腾讯视频 / QQ音乐…)](./docs/platforms/各平台解锁指南.md)
+- [网易云音乐海外无法播放解决方法](docs/platforms/网易云音乐海外无法播放解决方法.md)
 
 ### 四、横向测评 Reviews
 - [主流回国加速器横向对比](./docs/reviews/横向对比.md)
