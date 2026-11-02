@@ -32,6 +32,7 @@
 - [QQ音乐海外无法播放解决方法](docs/platforms/QQ音乐海外无法播放解决方法.md)
 - [海外玩国服游戏延迟高卡顿解决方法](docs/platforms/海外玩国服游戏延迟高卡顿解决方法.md)
 - [海外微信视频号公众号小程序用不了解决方法](docs/platforms/海外微信视频号公众号小程序用不了解决方法.md)
+- [海外看红果短剧AI漫剧解决方法](docs/platforms/海外看红果短剧AI漫剧解决方法.md)
 ### 四、横向测评 Reviews
 - [主流回国加速器横向对比](./docs/reviews/横向对比.md)
 
